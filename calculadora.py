@@ -1,4 +1,4 @@
-"""Calculadora"""
+"""Calculadora 1"""
 
 OPERADORES = ["suma", "resta", "multi", "div", "salir"]
 
